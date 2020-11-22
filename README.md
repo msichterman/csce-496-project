@@ -1,6 +1,8 @@
 # Travis, Why Do the Builds Keep Failing?: An Analysis on CI Failure Causes and Severity
 **Authors:** Matt Sichterman, Easton Joachimsen, and Colin Cummings
 
+<p align="center"><img src="https://github.com/msichterman/csce-496-project/blob/master/Travis-and-Github.png" width="600" /></p>
+
 This repository is home to the artifacts from the semester long project for CSCE 496: Empirical Software Engineering. This project consisted of five milestones with the end goal of conductiing an experiment/analysis on a selected topic and then writing an [IEEE conference proceedings](https://www.ieee.org/conferences/publishing/templates.html) paper. We chose to do our study on data from Travis CI and GitHub via the [TravisTorrent data set](https://travistorrent.testroots.org/) in an effort to analyze the main causes of continuous integration build failures and categorize their severity. Our findings were presented and elaborated upon in our final report.
 
 ## Artifacts in this Repository
