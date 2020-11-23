@@ -7,9 +7,9 @@ This repository is home to the artifacts from the semester long project for CSCE
 
 ## Artifacts in this Repository
 ### Milestone Submissions:
-* [Milestone 1](https://github.com/msichterman/csce-496-project/blob/master/Milestone%201.docx)
-* [Milestone 2](https://github.com/msichterman/csce-496-project/blob/master/Milestone2.pdf)
-* TODO: [Milestone 4 (Final Paper)]()
+* [Milestone 1 (Project Proposal)](https://github.com/msichterman/csce-496-project/blob/master/Milestone%201.docx)
+* [Milestone 2 (Rough Draft)](https://github.com/msichterman/csce-496-project/blob/master/Milestone2.pdf)
+* [Milestone 4 (Final Report)](https://github.com/msichterman/csce-496-project/blob/master/FinalReport.pdf)
 
 ### Writing Center Feedback
 * [Feedback](https://github.com/msichterman/csce-496-project/blob/master/Writing%20Center%20Feedback.pdf)
