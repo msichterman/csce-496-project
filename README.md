@@ -10,6 +10,7 @@ This repository is home to the artifacts from the semester long project for CSCE
 * [Milestone 1 (Project Proposal)](https://github.com/msichterman/csce-496-project/blob/master/Milestone%201.docx)
 * [Milestone 2 (Rough Draft)](https://github.com/msichterman/csce-496-project/blob/master/Milestone2.pdf)
 * [Milestone 4 (Final Report)](https://github.com/msichterman/csce-496-project/blob/master/FinalReport.pdf)
+* [Final Overleaf Zip](https://github.com/msichterman/csce-496-project/blob/master/ImperialEngineersOverleaf.zip)
 
 ### Writing Center Feedback
 * [Feedback](https://github.com/msichterman/csce-496-project/blob/master/Writing%20Center%20Feedback.pdf)
