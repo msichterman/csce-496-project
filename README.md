@@ -29,6 +29,6 @@ This repository is home to the artifacts from the semester long project for CSCE
 
 ## How to Run the Data Analysis Code
 1. Download this repository as a whole, or just download [CSCE496_Project.ipynb](https://github.com/msichterman/csce-496-project/blob/master/CSCE496_Project.ipynb) and [TravisTorrent-3-Projects-With-Tests.csv](https://github.com/msichterman/csce-496-project/blob/master/TravisTorrent-3-Projects-With-Tests.csv) and place them in the same directory.
-2. Open in the Jupyter Notebook software that you prefer. We used [Google Colab](https://colab.research.google.com/) during our project, but we tested the final file in Visual Studio Code with the [Jupyter extension](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter) (recommended method to run).
+2. Open the directory methioned aboce in the Jupyter Notebook software of your choice. We used [Google Colab](https://colab.research.google.com/) during our project, but tested the final file in Visual Studio Code with the [Jupyter extension](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter) (recommended method to run).
 3. Ensure the data set is imported correctly.
 4. Run the sections labeled `RQ1 Analysis` and `RQ2 Analysis` to see the results for our research questions, respectively.
