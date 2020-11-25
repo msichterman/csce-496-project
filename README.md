@@ -27,6 +27,11 @@ This repository is home to the artifacts from the semester long project for CSCE
 * [How Open Source Projects use Static Code Analysis Tools in Continuous Integration Pipelines](https://github.com/msichterman/csce-496-project/blob/master/How%20Open%20Source%20Projects%20use%20Static%20Code%20Analysis%20Tools%20in%20Continuous%20Integration%20Pipelines%20(1).pdf)
 * ... and more (elaborated on in the final paper)
 
+### Toptal Tracker Time Logs
+* [Matt](https://github.com/msichterman/csce-496-project/blob/master/ToptalTrackerMatt.pdf)
+* [Easton](https://github.com/msichterman/csce-496-project/blob/master/ToptalTrackerEaston.pdf)
+* [Colin](https://github.com/msichterman/csce-496-project/blob/master/ToptalTrackerColin.pdf)
+
 ## How to Run the Data Analysis Code
 1. Download this repository as a whole, or just download [CSCE496_Project.ipynb](https://github.com/msichterman/csce-496-project/blob/master/CSCE496_Project.ipynb) and [TravisTorrent-3-Projects-With-Tests.csv](https://github.com/msichterman/csce-496-project/blob/master/TravisTorrent-3-Projects-With-Tests.csv) and place them in the same directory.
 2. Open the directory methioned aboce in the Jupyter Notebook software of your choice. We used [Google Colab](https://colab.research.google.com/) during our project, but tested the final file in Visual Studio Code with the [Jupyter extension](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter) (recommended method to run).
